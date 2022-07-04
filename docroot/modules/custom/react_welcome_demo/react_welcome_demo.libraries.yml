@@ -1,0 +1,7 @@
+react_welcome:
+  version: 1.0.0
+  js:
+    dist/react_welcome.bundle.js: {}
+  dependencies:
+    - core/drupalSettings
+    - core/jquery

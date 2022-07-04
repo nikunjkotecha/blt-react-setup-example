@@ -1,0 +1,5 @@
+name: React Welcome Demo
+type: module
+description: 'Provides a block to display welcome message and related links via React.'
+package: 'React'
+core_version_requirement: ^8 || ^9 || ^10
